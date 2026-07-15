@@ -2,9 +2,6 @@
 <!--                  HERO BANNER (Replace Later)           -->
 <!-- ===================================================== -->
 
-<p align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK_HERE" width="100%" alt="Engineering × Data Science × AI Banner"/>
-</p>
 
 <h1 align="center">
 Hi 👋, I'm Aduragbemi Stephen
