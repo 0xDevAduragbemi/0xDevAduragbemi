@@ -135,7 +135,7 @@ I'm committed to continuously improving my technical skills while building pract
 [![View Repository](https://img.shields.io/badge/View%20Project-GitHub-black?logo=github)](https://github.com/0xDevAduragbemi/executive-logistics-analytics-dashboard)
 
 **IncuRecon AI**
-[![Team Repository](https://img.shields.io/badge/Team%20Repository-GitHub-blue?logo=github)](https://github.com/incurecon/Recon-AI)
+[![Team Repository](https://img.shields.io/badge/Team%20Repository-GitHub-black?logo=github)](https://github.com/incurecon/Recon-AI)
 ---
 
 # 🌱 What I'm Currently Learning
