@@ -122,12 +122,20 @@ I'm committed to continuously improving my technical skills while building pract
 | 💳 **Credit Card Fraud Detection** | Classification model for identifying fraudulent financial transactions on highly imbalanced datasets. |
 | 📝 **Natural Language Processing (NLP)** | NLP project focused on extracting meaningful insights from textual data using Python and machine learning. |
 
+# 🤝 Collaborative Projects
+
+| Project | Description |
+|---------|-------------|
+| **🤖 IncuRecon AI – GenAI Finance MVP** | AI-powered finance assistant built during the AI Now Bootcamp Hackathon. My contributions included prompt engineering, Google AI Studio development, product design, testing, and feature ideation. |
+
 > ### 🔗 Published Projects
 
 🚚 **Logistics Executive Dashboard**
 
 [![View Repository](https://img.shields.io/badge/View%20Project-GitHub-black?logo=github)](https://github.com/0xDevAduragbemi/executive-logistics-analytics-dashboard)
 
+**IncuRecon AI**
+[![Team Repository](https://img.shields.io/badge/Team%20Repository-GitHub-blue?logo=github)](https://github.com/incurecon/Recon-AI)
 ---
 
 # 🌱 What I'm Currently Learning
