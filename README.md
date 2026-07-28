@@ -122,7 +122,11 @@ I'm committed to continuously improving my technical skills while building pract
 | 💳 **Credit Card Fraud Detection** | Classification model for identifying fraudulent financial transactions on highly imbalanced datasets. |
 | 📝 **Natural Language Processing (NLP)** | NLP project focused on extracting meaningful insights from textual data using Python and machine learning. |
 
-> Repository links and project previews will be added as each project is published.
+> ### 🔗 Published Projects
+
+🚚 **Logistics Executive Dashboard**
+
+[![View Repository](https://img.shields.io/badge/View%20Project-GitHub-black?logo=github)](https://github.com/0xDevAduragbemi/executive-logistics-analytics-dashboard)
 
 ---
 
